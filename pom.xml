@@ -49,13 +49,13 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+				<version>2.7</version>
 			</plugin>
 			<plugin>
     				<groupId>org.codehaus.mojo</groupId>
     				<artifactId>cobertura-maven-plugin</artifactId>
     				<configuration>
        					<formats>
-           					<format>html</format>
            					<format>xml</format>
        					</formats>
     				</configuration>
