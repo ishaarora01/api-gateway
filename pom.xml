@@ -57,6 +57,7 @@
 			</plugin>
 		</plugins>
 	</build>
+
 	<reporting>
 		<plugins>
 			<plugin>
@@ -65,7 +66,6 @@
 				<version>2.6</version>
 				<configuration>
 					<formats>
-						<format>xml</format>
 						<format>html</format>
 					</formats>
 				</configuration>
